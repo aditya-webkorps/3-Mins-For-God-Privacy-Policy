@@ -258,9 +258,9 @@ To exercise these rights, please contact us using the information provided in th
 
 If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us:
 
-**Email:** support@trytank.org
-**Website:** TryTank.org
-**Address:** 3737 Seminary Road, Alexandria VA 22304
+**Email:** support@trytank.org<br>
+**Website:** <a href="https://www.trytank.org/">TryTank.org</a><br>
+**Address:** 3737 Seminary Road, Alexandria VA 22304<br>
 
 **Response Time:** We aim to respond to all privacy-related inquiries within 30 days.
 
