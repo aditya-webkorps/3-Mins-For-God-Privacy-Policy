@@ -1,24 +1,12 @@
 # Privacy Policy
 
-> **⚠️ IMPORTANT: Before Publishing**  
-> This privacy policy template requires customization. Please replace the following placeholders:
-> - `[November 28, 2025]`
-> - `[Your Company/Developer Name]` - Add your company or developer name
-> - `[Your Support Email Address]` - Add your support email (e.g., support@yourcompany.com)
-> - `[Your Website URL]` - Add your website URL (e.g., https://yourwebsite.com)
-> - `[Your Physical Address]` - Add your physical address (if applicable, or remove this field)
->
-> **Legal Disclaimer:** This privacy policy is provided as a template. It is recommended that you review it with a legal professional to ensure compliance with all applicable privacy laws in your jurisdiction (GDPR, CCPA, etc.).
+**Last Updated:** November 28, 2025
 
----
-
-**Last Updated:** [Date]
-
-**Effective Date:** [Date]
+**Effective Date:** November 28, 2025
 
 ## Introduction
 
-Welcome to **3 Mins for God** (the "App"), a prayer and devotional application developed by [Your Company/Developer Name] ("we," "our," or "us"). We are committed to protecting your privacy and ensuring transparency about how we handle your information.
+Welcome to **3 Mins for God** (the "App"), a prayer and devotional application developed by TryTank Research Institute ("we," "our," or "us"). We are committed to protecting your privacy and ensuring transparency about how we handle your information.
 
 This Privacy Policy explains how we collect, use, store, and protect your personal information when you use our App. By downloading, installing, or using our App, you agree to the collection and use of information in accordance with this policy.
 
@@ -270,9 +258,9 @@ To exercise these rights, please contact us using the information provided in th
 
 If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us:
 
-**Email:** [Your Support Email Address]
-**Website:** [Your Website URL]
-**Address:** [Your Physical Address, if applicable]
+**Email:** support@trytank.org
+**Website:** TryTank.org
+**Address:** 3737 Seminary Road, Alexandria VA 22304
 
 **Response Time:** We aim to respond to all privacy-related inquiries within 30 days.
 
@@ -281,6 +269,4 @@ If you have any questions, concerns, or requests regarding this Privacy Policy o
 By using **3 Mins for God**, you acknowledge that you have read and understood this Privacy Policy and agree to be bound by its terms. If you do not agree to this Privacy Policy, please discontinue use of the App.
 
 ---
-
-**Note:** This Privacy Policy should be reviewed and updated regularly to ensure compliance with applicable laws and to reflect any changes in our data practices. It is recommended that you consult with a legal professional to ensure compliance with all applicable privacy laws in your jurisdiction.
 
